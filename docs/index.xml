@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dustin&#39;s Corner</title>
+    <link>/</link>
+    <description>Recent content on Dustin&#39;s Corner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Dustin L. Dodson</copyright>
+    <lastBuildDate>Thu, 28 May 2020 16:01:44 -0700</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Thu, 28 May 2020 19:31:51 -0700</pubDate>
+      
+      <guid>/about/</guid>
+      <description>TODO</description>
+    </item>
+    
+    <item>
+      <title>Hello world</title>
+      <link>/posts/hello-world/</link>
+      <pubDate>Thu, 28 May 2020 16:01:44 -0700</pubDate>
+      
+      <guid>/posts/hello-world/</guid>
+      <description>This is going to be my latest attempt at starting a blog. I have tried many times, and always seem to get stuck in the details, never getting anywhere. Hopefully I can make this work.
+Stay tuned!</description>
+    </item>
+    
+  </channel>
+</rss>
