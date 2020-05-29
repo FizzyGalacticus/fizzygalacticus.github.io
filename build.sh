@@ -1,11 +1,7 @@
 #!/usr/bin/env sh
 
-cd hugo && hugo --gc --minify
+cd src && hugo --gc --minify
 
-if [ -d "../docs" ]; then
-    cp -r docs/* ../docs/
-else
-    mv docs ../docs
-fi
+cp -r docs/* ../
 
 rm -rf docs
