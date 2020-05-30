@@ -11,7 +11,7 @@
 
 *Disclaimer*: This post is mostly just me rambling.
 
-The past few months have been different, an almost unrecognizable blur of time and alcohol. In this time, I have thought about different aspects of myself and my life, analysing what it really means to be "me".
+The past few months have been different, an almost unrecognizable blur of time and alcohol. In this time, I have thought about different aspects of myself and my life, analyzing what it really means to be "me".
 
 Before COVID-19 and quarantine, my life was still a blur of time, but it lacked the reflection of self that being boarded up at home offers. My weekdays were fairly formulaic:
 
@@ -39,6 +39,6 @@ Lately I find myself thinking about what it is I value in life, and what was in 
 
 So I've been trying to fix myself, fill my personal void and find an identity that I can comfortably call "me". The problem I've since faced is that I don't exactly have experience outside of my "norm", so I'm basically starting from scratch with everything I do. I also have a problem with trying to understand exactly how something works before I can use it to my satisfaction. I understand that everyone must start somewhere and that learning something new takes time, but it's this very reason why I cannot bring myself to commit. I'm stuck in the cyclic process of wasting time trying to find something to not waste my time.
 
-I've attempted learning new programming lanuages, finally learning some game development (something I've always wanted to do), and learning some Docker. However, with each new endeavor I find myself learning just enough to scratch the surface, ultimately getting frustrated at how much more I will have to put in. Even now with this blog, I find myself going back through the settings and tweaking things instead of actually writing something, _anything_, down.
+I've attempted learning new programming languages, finally learning some game development (something I've always wanted to do), and learning some Docker. However, with each new endeavor I find myself learning just enough to scratch the surface, ultimately getting frustrated at how much more I will have to put in. Even now with this blog, I find myself going back through the settings and tweaking things instead of actually writing something, _anything_, down.
 
 **tl;dr**: This blog is my latest venture to help me find my purpose.
