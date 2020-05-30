@@ -39,6 +39,16 @@
 						"identifier": "about",
 						"name": "About",
 						"url": "/about/"
+					},
+					{
+						"identifier": "github",
+						"name": "Github",
+						"url": "https://github.com/FizzyGalacticus"
+					},
+					{
+						"identifier": "linkedin",
+						"name": "LinkedIn",
+						"url": "https://linkedin.com/in/dustinleedodson/"
 					}
 				]
 			}
@@ -55,7 +65,7 @@
         "disableJSON": false,
         "disableSVG": false,
         "disableXML": false,
-        "minifyOutput": false,
+        "minifyOutput": true,
         "tdewolff": {
            "css": {
               "decimals": -1,
