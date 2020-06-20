@@ -1,0 +1,18 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "My blog",
+  "main": "index.js",
+  "repository": "git@github.com:FizzyGalacticus/fizzygalacticus.github.io.git",
+  "author": "Dustin L. Dodson <dustinleedodson@gmail.com>",
+  "scripts": {
+    "build": "cd src && hugo --gc --minify && cp -r docs/* ../ && rm -rf docs",
+    "new": "cd src && hugo new",
+    "serve": "cd src && hugo serve -D"
+  },
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "husky": "^4.2.5"
+  }
+}
