@@ -4,7 +4,7 @@
     "date": "2020-06-09T16:01:44-07:00",
     "author": "Dustin L. Dodson",
     "categories": ["life", "politics"],
-    "tags": ["BLM", "racism", "discrimination"],
+    "tags": ["blog", "racism", "discrimination"],
     "description": "People are disgusting",
     "draft": true
 
