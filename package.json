@@ -7,12 +7,14 @@
   "author": "Dustin L. Dodson <dustinleedodson@gmail.com>",
   "scripts": {
     "build": "cd src && hugo --gc --minify && cp -r docs/* ../ && rm -rf docs",
-    "new": "cd src && hugo new",
+    "new": "node scripts/new.js -n",
+    "code-diary": "node scripts/new.js -t code-diary -n",
     "serve": "cd src && hugo serve -D"
   },
   "license": "MIT",
   "private": false,
   "dependencies": {
+    "commander": "^6.2.0",
     "husky": "^4.2.5"
   }
 }

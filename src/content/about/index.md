@@ -7,7 +7,7 @@
     "name": "Dustin Dodson",
     "occupation": "Fullstack Developer",
     "from": "North Pole, AK",
-    "location": "San Francisco, CA",
+    "location": "Henderson, NV",
     "likes": [
         "programming",
         "alcohol",
