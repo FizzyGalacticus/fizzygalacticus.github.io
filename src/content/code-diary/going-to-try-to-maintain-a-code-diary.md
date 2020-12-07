@@ -9,7 +9,7 @@
     "description": "",
     "showFullContent": false,
     "type": "posts",
-    "draft": true
+    "draft": false
 }
 
 Recently came across this video, and decided to give it a shot. Since I've basically got the tools to do that already in this blog, I decided to store them here. Let's see if I can actually remember to keep it updated!
