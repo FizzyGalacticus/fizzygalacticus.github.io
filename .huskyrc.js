@@ -4,13 +4,13 @@ const tasks = (...arr) => arr.reduce((acc, o) => [...acc, ...(Array.isArray(o) ?
 
 const files = ['sitemap.xml', 'index.xml', 'index.html', '404.html'];
 
-const directories = ['about', 'assets', 'categories', 'img', 'page', 'posts', 'tags'];
+const directories = ['about', 'assets', 'categories', 'img', 'page', 'posts', 'code-diary', 'tags'];
 
 module.exports = {
     hooks: {
         'pre-commit': tasks([
             `npm run build`,
-            ...directories.map(dir => `git add $(find ${dir})`),
+            ...directories.map(dir => `git add ${dir}/**`),
             ...files.map(f => `git add "${f}"`)
         ]),
     }
