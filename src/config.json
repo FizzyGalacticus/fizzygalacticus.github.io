@@ -1,7 +1,7 @@
 {
 	"baseurl": "/",
 	"languageCode": "en-us",
-	"theme": "terminal-test",
+	"theme": "terminal",
     "paginate": 5,
     "publishdir": "docs",
 	"params": {
@@ -20,7 +20,7 @@
 		"en": {
 			"languageName": "English",
 			"title": "Dustin's Corner",
-			"subtitle": "Fullstack Developer - San Francisco",
+			"subtitle": "Fullstack Developer - Henderson, NV",
 			"owner": "Dustin Dodson",
 			"keywords": "",
 			"copyright": "Dustin L. Dodson",
@@ -38,17 +38,32 @@
 					{
 						"identifier": "about",
 						"name": "About",
-						"url": "/about/"
+						"url": "/about/",
+						"weight": 1
+					},
+					{
+						"identifier": "code-diary",
+						"name": "Code Diary",
+						"url": "/code-diary/",
+						"weight": 1
+					},
+					{
+						"identifier": "posts",
+						"name": "Posts",
+						"url": "/posts/",
+						"weight": 1
 					},
 					{
 						"identifier": "github",
 						"name": "Github",
-						"url": "https://github.com/FizzyGalacticus"
+						"url": "https://github.com/FizzyGalacticus",
+						"weight": 2
 					},
 					{
 						"identifier": "linkedin",
 						"name": "LinkedIn",
-						"url": "https://linkedin.com/in/dustinleedodson/"
+						"url": "https://linkedin.com/in/dustinleedodson/",
+						"weight": 2
 					}
 				]
 			}
